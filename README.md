@@ -76,5 +76,4 @@ The portable applications are self-contained. For transparency, the build archit
 
 📝 License
 
-
 This project is open-source and free to distribute.

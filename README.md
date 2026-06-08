@@ -75,6 +75,6 @@ The portable applications are self-contained. For transparency, the build archit
 └── bild/                        # Directory containing the 220 PNG tile images
 
 📝 License
-This project is open-source and free to distribute.
+
 
 This project is open-source and free to distribute.

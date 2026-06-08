@@ -69,9 +69,13 @@ The portable applications are self-contained. For transparency, the build archit
 
 
 ├── mahjong.exe / .dmg / binary  # Ready-to-run game file
+
 ├── mahjong_config.json          # Configuration definitions (JSON standard)
+
 ├── 001.wav                      # Match sound effect
+
 ├── 002.wav                      # Victory background music track
+
 └── bild/                        # Directory containing the 220 PNG tile images
 
 📝 License

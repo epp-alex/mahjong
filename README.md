@@ -67,7 +67,7 @@ Go to the **Releases** section on GitHub and download the appropriate package fo
 
 The portable applications are self-contained. For transparency, the build architecture includes:
 
-```text
+
 ├── mahjong.exe / .dmg / binary  # Ready-to-run game file
 ├── mahjong_config.json          # Configuration definitions (JSON standard)
 ├── 001.wav                      # Match sound effect
